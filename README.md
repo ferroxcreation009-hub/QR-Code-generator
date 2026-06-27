@@ -19,4 +19,4 @@ A QR code generator built with HTML, CSS and JavaScript using the QR Server API.
 3. Scan the generated QR code
 
 ## Live Demo
-[]
+[https://ferroxcreation009-hub.github.io/QR-Code-generator/]
